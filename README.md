@@ -39,7 +39,7 @@ filePath = '//my-server.com/test-file.txt';
 
 For local server you can use
 ```js
-filePath = '//127.0.0.1/test-file.txt';
+filePath = '//localhost/test-file.txt';
 ```
 
 ## How to select all files at local folder
